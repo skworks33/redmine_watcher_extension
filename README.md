@@ -1,4 +1,7 @@
 # redmine_watcher_extension
+## About
+
+* ユーザーが属するグループの全ユーザーをウォッチャーに追加します
 
 ## install
 
